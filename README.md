@@ -23,4 +23,4 @@ sudo gitlab-ctl reconfigure
 sudo cat /etc/gitlab/initial_root_password
 
 ```
-~~Meisam Amiri~~
+Meisam Amiri
