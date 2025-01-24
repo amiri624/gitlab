@@ -16,6 +16,7 @@ sudo apt upgrade -y
 ```bash
 sudo apt install -y ca-certificates curl openssh-server tzdata
 ```
+
 ```bash
 ls 
 vim /etc/gitlab/gitlab.rb
