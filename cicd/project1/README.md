@@ -16,7 +16,6 @@ git remote add origin http://git.sudoix.local/milad/project1.git
 git branch -M main
 git push -uf origin main
 ```
-
 ## Integrate with your tools
 
 - [ ] [Set up project integrations](http://git.sudoix.local/milad/project1/-/settings/integrations)
