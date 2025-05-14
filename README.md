@@ -1,3 +1,15 @@
+
+
+
+
+
+
+
+
+
+
+
+
 # How to install Gitlab on a Linux server
 
 ```bash
